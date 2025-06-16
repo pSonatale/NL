@@ -2,7 +2,7 @@
 
 There is a code related to the machine learning model that reads text and analyzes emotions that fit that text.
 
-# Sonatale - KoBERT-based Emotion Analysis Model
+# KoBERT-based Emotion Analysis Model
 
 This project is a fine-tuning of a **emotional classification model that classifies seven emotions based on the KoBERT model for **Real-time Emotion Analysis**, one of the key features of the Sonatale app.
 
